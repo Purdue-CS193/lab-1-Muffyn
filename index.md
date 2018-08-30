@@ -1,3 +1,22 @@
+# Ben's first CS193 Lab
+- Lecturers are cool
+- The other lecturer is cool too
+- and the TAs are cool too
+- Both the lecture hall and the lab have comfy chairs
+- CS is cool
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
